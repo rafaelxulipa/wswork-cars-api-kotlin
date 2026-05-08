@@ -364,4 +364,4 @@ docker-compose down -v      # reset do banco
 
 ## 👤 Autor
 
-Desenvolvido por **Otávio Melo** como teste técnico para a WS Work — 2025.
+Desenvolvido por **Otávio Melo** como teste técnico para a WS Work — 2026.
